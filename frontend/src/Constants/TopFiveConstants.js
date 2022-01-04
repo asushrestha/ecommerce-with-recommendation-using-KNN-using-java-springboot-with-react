@@ -1,0 +1,3 @@
+export const TOP_FIVE_REQUEST = 'TOP_FIVE_REQUEST';
+export const TOP_FIVE_SUCCESS = 'TOP_FIVE_SUCCESS';
+export const TOP_FIVE_FAIL = 'TOP_FIVE_FAIL';
